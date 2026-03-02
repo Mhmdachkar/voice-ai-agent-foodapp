@@ -1,0 +1,1 @@
+-- Initial schema placeholder – paste migrations later
